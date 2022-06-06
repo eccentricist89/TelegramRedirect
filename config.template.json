@@ -11,6 +11,6 @@
     },
     "server": {
         "app_port": 3000,
-        "default_url": "https://google.com"
+        "default_url": "https://office.com"
     }
 }
